@@ -1,0 +1,29 @@
+TABLE    TOOL    REPORT   FILE
+---------------------------------------------
+
+Traffic File   : D:\TestAutomation\TestResult\ARB_Hash_020_v150\HashLAN.pcap; 
+Filter File    : 
+Start Time     : 26/03/2013 04:49:57.9660350
+Stop Time      : 26/03/2013 04:50:32.9728660
+Primary Key    : Source/Dest IP
+Secondary Key  : MsgKey.Name
+Peak Time Slot : 0 second(s)
+
+
+
+Rank, Key1, Key2, MsgCount, BytCount, MsgPk, BytPk, Time, Non-Zero
+====, ====, ====, ========, ========, =====, =====, ====, ========
+1,192.168.23.4/239.23.252.26,TestRIC1,1,65,0,0, ,0
+2,192.168.23.4/239.232.252.29,TestRIC2,1,65,0,0, ,0
+3,192.168.23.4/239.232.252.46,RIC1,1,59,0,0, ,0
+4,192.168.23.4/239.232.252.49,1234,1,61,0,0, ,0
+5,192.168.23.4/MTC_GDL_007(239.232.252.7),DELL.O,1,87,0,0, ,0
+6,192.168.23.4/MTC_GDL_016(239.232.252.16),ABCD,1,61,0,0, ,0
+
+Total Number of Messages Read       = 6
+Total Number of Bytes Read          = 398
+Total Number of Records Reported    = 6
+Total Number of Unique Primary Keys = 6
+
+
+[End Of TableTool Report]

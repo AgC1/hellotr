@@ -1,0 +1,10 @@
+D:\Project\FileComparisonV6\FileComparison\obj\Release\FileComparison.exe
+D:\Project\FileComparisonV6\FileComparison\obj\Release\FileComparison.pdb
+D:\Project\FileComparisonV6\FileComparison\bin\Release\FileComparison.exe
+D:\Project\FileComparisonV6\FileComparison\bin\Release\FileComparison.pdb
+D:\Project\FileComparisonV6\FileComparison\obj\Release\ResolveAssemblyReference.cache
+C:\Yongjian\Project\FileComparison\FileComparison\obj\Release\FileComparison.exe
+C:\Yongjian\Project\FileComparison\FileComparison\obj\Release\FileComparison.pdb
+C:\Yongjian\Project\FileComparison\FileComparison\bin\Release\FileComparison.exe.config
+C:\Yongjian\Project\FileComparison\FileComparison\bin\Release\FileComparison.exe
+C:\Yongjian\Project\FileComparison\FileComparison\bin\Release\FileComparison.pdb

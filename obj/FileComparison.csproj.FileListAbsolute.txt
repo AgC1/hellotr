@@ -1,0 +1,10 @@
+D:\Project\FileComparisonV6\FileComparison\bin\Debug\FileComparison.exe
+D:\Project\FileComparisonV6\FileComparison\bin\Debug\FileComparison.pdb
+D:\Project\FileComparisonV6\FileComparison\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FileComparisonV6\FileComparison\obj\Debug\FileComparison.exe
+D:\Project\FileComparisonV6\FileComparison\obj\Debug\FileComparison.pdb
+D:\Project\FileComparisonV6\FileComparison\bin\Release\FileComparison.exe
+D:\Project\FileComparisonV6\FileComparison\bin\Release\FileComparison.pdb
+D:\Project\FileComparisonV6\FileComparison\obj\Release\ResolveAssemblyReference.cache
+D:\Project\FileComparisonV6\FileComparison\obj\Release\FileComparison.exe
+D:\Project\FileComparisonV6\FileComparison\obj\Release\FileComparison.pdb
